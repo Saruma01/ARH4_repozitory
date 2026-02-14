@@ -8,3 +8,13 @@ C:\Users\Admin\Documents\OOP1\ARH4\bin\Debug\ARH4.pdb
 C:\Users\Admin\Documents\OOP1\ARH4\obj\Debug\ARH4.Form1.resources
 C:\Users\Admin\Documents\OOP1\ARH4\obj\Debug\ARH4.exe
 C:\Users\Admin\Documents\OOP1\ARH4\obj\Debug\ARH4.pdb
+C:\Users\Admin\Documents\OOP1\ARH4_repozitory\ARH4\bin\Debug\ARH4.exe.config
+C:\Users\Admin\Documents\OOP1\ARH4_repozitory\ARH4\bin\Debug\ARH4.exe
+C:\Users\Admin\Documents\OOP1\ARH4_repozitory\ARH4\bin\Debug\ARH4.pdb
+C:\Users\Admin\Documents\OOP1\ARH4_repozitory\ARH4\obj\Debug\ARH4.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\OOP1\ARH4_repozitory\ARH4\obj\Debug\ARH4.Form1.resources
+C:\Users\Admin\Documents\OOP1\ARH4_repozitory\ARH4\obj\Debug\ARH4.Properties.Resources.resources
+C:\Users\Admin\Documents\OOP1\ARH4_repozitory\ARH4\obj\Debug\ARH4.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\OOP1\ARH4_repozitory\ARH4\obj\Debug\ARH4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\OOP1\ARH4_repozitory\ARH4\obj\Debug\ARH4.exe
+C:\Users\Admin\Documents\OOP1\ARH4_repozitory\ARH4\obj\Debug\ARH4.pdb
